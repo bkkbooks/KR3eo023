@@ -1,0 +1,537 @@
+canonical_identifier: bkk:krp/KR3eo023/v1
+canonical_location: https://kanripo.org/bkk/KR3eo023/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 修真秘要
+  identifiers:
+    krp: KR3eo023
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo023.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo023_000.yaml, hash: 'sha256:9339a09b766caa079c991a441c4efa78d52e5f101d6842740984d8f5e2586b14'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo023_000.markers.yaml, hash: 'sha256:bbcac0472095e15b67dc6741d3530bf15b6d457eb855b44e755e4feef54054e3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 362
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 191
+  label: 跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d4.h1s1
+    span:
+    - body
+    - 191
+    - 231
+  label: 仙人撫琴
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d5.h1s1
+    span:
+    - body
+    - 231
+    - 260
+  label: 絞丹田
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d6.h1s1
+    span:
+    - body
+    - 260
+    - 286
+  label: 仙人存氣開關
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d7.h1s1
+    span:
+    - body
+    - 286
+    - 319
+  label: 仙人指路
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d8.h1s1
+    span:
+    - body
+    - 319
+    - 354
+  label: 九九登天
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d9.h1s1
+    span:
+    - body
+    - 354
+    - 385
+  label: 周天火候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d10.h1s1
+    span:
+    - body
+    - 385
+    - 420
+  label: 呂祖散精法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d11.h1s1
+    span:
+    - body
+    - 420
+    - 449
+  label: 呂祖散運息氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d12.h1s1
+    span:
+    - body
+    - 449
+    - 478
+  label: 龍扳爪
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d13.h1s1
+    span:
+    - body
+    - 478
+    - 507
+  label: 神仙斗柄開關
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d14.h1s1
+    span:
+    - body
+    - 507
+    - 524
+  label: 治頭暈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d15.h1s1
+    span:
+    - body
+    - 524
+    - 553
+  label: 鳴天鼓
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d16.h1s1
+    span:
+    - body
+    - 553
+    - 587
+  label: 治後心虛疼
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d17.h1s1
+    span:
+    - body
+    - 587
+    - 621
+  label: 霸王舉鼎
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d18.h1s1
+    span:
+    - body
+    - 621
+    - 649
+  label: 虎施威
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d19.h1s1
+    span:
+    - body
+    - 649
+    - 674
+  label: 專治久癤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d20.h1s1
+    span:
+    - body
+    - 674
+    - 698
+  label: 托天塔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d21.h1s1
+    span:
+    - body
+    - 698
+    - 724
+  label: 烏龍探爪
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d22.h1s1
+    span:
+    - body
+    - 724
+    - 759
+  label: 神仙進禮
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d23.h1s1
+    span:
+    - body
+    - 759
+    - 794
+  label: 仙人攪轆轤
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d24.h1s1
+    span:
+    - body
+    - 794
+    - 833
+  label: 治胸膈膨悶
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d25.h1s1
+    span:
+    - body
+    - 833
+    - 867
+  label: 呂祖破氣法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d26.h1s1
+    span:
+    - body
+    - 867
+    - 911
+  label: 抽添火候
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d27.h1s1
+    span:
+    - body
+    - 911
+    - 949
+  label: 呂祖破氣法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d28.h1s1
+    span:
+    - body
+    - 949
+    - 984
+  label: 仙人拔劍
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d29.h1s1
+    span:
+    - body
+    - 984
+    - 1016
+  label: 童子拜觀音
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d30.h1s1
+    span:
+    - body
+    - 1016
+    - 1038
+  label: 暖丹田
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d31.h1s1
+    span:
+    - body
+    - 1038
+    - 1065
+  label: 陳摶睡功
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d32.h1s1
+    span:
+    - body
+    - 1065
+    - 1095
+  label: 呂祖行氣訣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d33.h1s1
+    span:
+    - body
+    - 1095
+    - 1126
+  label: 立站活人心
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d34.h1s1
+    span:
+    - body
+    - 1126
+    - 1168
+  label: 降牛捉月
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d35.h1s1
+    span:
+    - body
+    - 1168
+    - 1191
+  label: 呂祖養精法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d36.h1s1
+    span:
+    - body
+    - 1191
+    - 1224
+  label: 搖天柱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d37.h1s1
+    span:
+    - body
+    - 1224
+    - 1261
+  label: 呂祖救疾法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d38.h1s1
+    span:
+    - body
+    - 1261
+    - 1296
+  label: 神仙靠拐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d39.h1s1
+    span:
+    - body
+    - 1296
+    - 1330
+  label: 金剛搗磑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d40.h1s1
+    span:
+    - body
+    - 1330
+    - 1396
+  label: 陳摶睡功
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d41.h1s1
+    span:
+    - body
+    - 1396
+    - 1428
+  label: 仙人脫靴
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d42.h1s1
+    span:
+    - body
+    - 1428
+    - 1455
+  label: 童子拜觀音
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d43.h1s1
+    span:
+    - body
+    - 1455
+    - 1488
+  label: 陳摶睡功
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d44.h1s1
+    span:
+    - body
+    - 1488
+    - 1521
+  label: 陳摶睡功
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d45.h1s1
+    span:
+    - body
+    - 1521
+    - 1558
+  label: 治腰腿疼
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d46.h1s1
+    span:
+    - body
+    - 1558
+    - 1592
+  label: 李白玩月
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d47.h1s1
+    span:
+    - body
+    - 1592
+    - 1619
+  label: 治腎堂虛冷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d48.h1s1
+    span:
+    - body
+    - 1619
+    - 1653
+  label: 霸王散法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d49.h1s1
+    span:
+    - body
+    - 1653
+    - 1684
+  label: 餓虎撲食
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d50.h1s1
+    span:
+    - body
+    - 1684
+    - 1708
+  label: 百氣衝頂
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d51.h1s1
+    span:
+    - body
+    - 1708
+    - 1736
+  label: 任脈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo023_jc_000-d52.h1s1
+    span:
+    - body
+    - 1736
+    - 1771
+  label: 雙手拿風雷
+  type: section
+  level: 1
+hash: sha256:26c12f3f68b0d0afc5f3568a5a536765a32120c876f80d2ba9913de42298b491
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
