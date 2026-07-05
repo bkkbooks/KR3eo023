@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo023_000.yaml, hash: 'sha256:9339a09b766caa079c991a441c4efa78d52e5f101d6842740984d8f5e2586b14'}
+  - {seq: 0, filename: KR3eo023_000.yaml, hash: 'sha256:ec9c53f5767d3655397c87747867bd527ed44b8a628c4920bfc1e6f78d138856'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo023_000.markers.yaml, hash: 'sha256:bbcac0472095e15b67dc6741d3530bf15b6d457eb855b44e755e4feef54054e3'}
+  - {seq: 0, role: markers, filename: assets/KR3eo023_000.markers.yaml, hash: 'sha256:5117e9fd04c48a0a4e88aae65346591660dc431f8a4a10f3f84c05d4165a18a7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -531,7 +531,4 @@ table_of_contents:
   label: 雙手拿風雷
   type: section
   level: 1
-hash: sha256:26c12f3f68b0d0afc5f3568a5a536765a32120c876f80d2ba9913de42298b491
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:eeacd2750f27766a48824627dc142587df2ffa01321e3b3fbd6831d861a87340
