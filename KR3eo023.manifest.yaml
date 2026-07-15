@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo023/v1
 canonical_location: https://kanripo.org/bkk/KR3eo023/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 修真秘要
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo023_000.yaml, hash: 'sha256:ec9c53f5767d3655397c87747867bd527ed44b8a628c4920bfc1e6f78d138856'}
+  - {seq: 0, filename: KR3eo023_000.yaml, hash: 'sha256:235c05bf002ceece2cd7f3d7e5aff606daa79c3f412bb2c21bdeb4cc0dda51c4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo023_000.markers.yaml, hash: 'sha256:5117e9fd04c48a0a4e88aae65346591660dc431f8a4a10f3f84c05d4165a18a7'}
+  - {seq: 0, role: markers, filename: assets/KR3eo023_000.markers.yaml, hash: 'sha256:cee2a91b6861627952ac254d2d831961002e79105d8333fdbfb52c31876f32d5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -531,4 +531,7 @@ table_of_contents:
   label: 雙手拿風雷
   type: section
   level: 1
-hash: sha256:eeacd2750f27766a48824627dc142587df2ffa01321e3b3fbd6831d861a87340
+hash: sha256:37f39021e6e111dee2d201165702745630942885f8670b24b726f03a79318f3b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
